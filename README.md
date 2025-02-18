@@ -46,6 +46,12 @@ to build and run.
 
 SteVe is designed to run standalone, a java servlet container / web server (e.g. Apache Tomcat), is **not** required.
 
+#### Python Environment Setup
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+```
+
 # Configuration and Installation
 
 1. Database preparation:
