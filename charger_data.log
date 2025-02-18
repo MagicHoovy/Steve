@@ -1,0 +1,22 @@
+2025-02-18 21:09:43,788 - INFO - Starting data collection for charger CDJ940009
+2025-02-18 21:09:43,789 - INFO - Data will be collected every 10 seconds
+2025-02-18 21:09:43,790 - INFO - Press Ctrl+C to stop
+2025-02-18 21:09:43,790 - INFO - Logging to file: charger_data.log
+2025-02-18 21:09:43,914 - INFO - Meter Values - Energy: 154 Wh, Temperature: 33¢XC, Current: 0.0A, Power: 0W, Voltage: 224.9V
+2025-02-18 21:09:43,916 - INFO - Data fetched successfully for charger CDJ940009
+2025-02-18 21:09:44,752 - INFO - Updated data for charger CDJ940009
+2025-02-18 21:09:44,800 - INFO - Data stored in MongoDB successfully
+2025-02-18 21:09:54,894 - INFO - Meter Values - Energy: 154 Wh, Temperature: 33¢XC, Current: 0.0A, Power: 0W, Voltage: 224.9V
+2025-02-18 21:09:54,894 - INFO - Data fetched successfully for charger CDJ940009
+2025-02-18 21:09:55,662 - INFO - Updated data for charger CDJ940009
+2025-02-18 21:09:55,695 - INFO - Data stored in MongoDB successfully
+2025-02-18 21:10:05,790 - INFO - Meter Values - Energy: 154 Wh, Temperature: 33¢XC, Current: 0.0A, Power: 0W, Voltage: 224.9V
+2025-02-18 21:10:05,790 - INFO - Data fetched successfully for charger CDJ940009
+2025-02-18 21:10:06,475 - INFO - Updated data for charger CDJ940009
+2025-02-18 21:10:06,513 - INFO - Data stored in MongoDB successfully
+2025-02-18 21:10:16,607 - INFO - Meter Values - Energy: 154 Wh, Temperature: 33¢XC, Current: 0.0A, Power: 0W, Voltage: 224.9V
+2025-02-18 21:10:16,608 - INFO - Data fetched successfully for charger CDJ940009
+2025-02-18 21:10:17,470 - INFO - Updated data for charger CDJ940009
+2025-02-18 21:10:17,516 - INFO - Data stored in MongoDB successfully
+2025-02-18 21:10:26,235 - INFO - Shutdown signal received. Cleaning up...
+2025-02-18 21:10:27,518 - INFO - Shutdown complete
